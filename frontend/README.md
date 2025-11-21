@@ -1,3 +1,5 @@
+Копия чужого репозитория с сайта https://timeweb.cloud/tutorials/react/telegram-web-app-kak-sozdat-mini-prilozhenie-v-telegram
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
